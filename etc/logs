@@ -1,0 +1,2831 @@
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.234958[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.235536[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.269555[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.282360[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.299306[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.313060[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.313158[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.313409[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.342836[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 0.00000000 LTC.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.578145[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.578267[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:52838
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:36168
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:48(B[0m[32m[40m.947768[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX Logout.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 0 byte(s) sent to socket
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:50(B[0m[32m[40m.864105[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02996071 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:48:51(B[0m[32m[40m.148506[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.586698[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.587256[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.587627[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.587715[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.587833[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 4 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.587914[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.587957[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.587993[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.588150[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02996071 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.588232[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 1 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.996236[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:49:02(B[0m[32m[40m.996356[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:52878
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40150
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:03(B[0m[32m[40m.365376[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX Logout.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 0 byte(s) sent to socket
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:05(B[0m[32m[40m.663437[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:05(B[0m[32m[40m.864388[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.087147[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.087727[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.088276[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.088427[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.088603[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 7 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.088735[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.088798[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.088883[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.088997[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.089132[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 2 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.539797[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.539919[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:52918
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:36248
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:16(B[0m[32m[40m.826741[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX Logout.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 0 byte(s) sent to socket
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:18(B[0m[32m[40m.573432[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:18(B[0m[32m[40m.638634[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.600300[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.600803[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.644089[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.644188[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.644320[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 8 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.644405[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.644449[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.644485[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.644571[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.644659[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 3 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.972944[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:49:27(B[0m[32m[40m.973062[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:52958
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40230
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:28(B[0m[32m[40m.423761[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:29(B[0m[32m[40m.798143[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:29(B[0m[32m[40m.875659[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.428023[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.428613[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.506244[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.506464[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.506658[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 10 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.506793[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.506859[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.506941[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.507090[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.507206[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 4 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.835496[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:49:39(B[0m[32m[40m.835615[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:52998
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40270
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:41(B[0m[32m[40m.312139[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:42(B[0m[32m[40m.050451[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:42(B[0m[32m[40m.126461[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:42(B[0m[32m[40m.802026[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02965336 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:42(B[0m[32m[40m.916121[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:42(B[0m[32m[40m.935661[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02965336 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:42(B[0m[32m[40m.968756[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02949976 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.057229[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.057652[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.057983[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.058070[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.058208[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 13 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.058294[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.058337[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.058373[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.058467[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02949976 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.058561[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 5 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.411890[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.412153[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53038
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40310
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:53(B[0m[32m[40m.569747[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:54(B[0m[32m[40m.221296[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:49:54(B[0m[32m[40m.339791[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.406046[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.406625[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.407845[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.407980[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.408273[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 16 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.408408[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.408474[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.408554[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.408665[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.441770[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 6 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.623991[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.624241[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53078
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40350
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:05(B[0m[32m[40m.719700[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:06(B[0m[32m[40m.693222[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:06(B[0m[32m[40m.752846[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.472084[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.472733[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.513883[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.514041[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.514331[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 20 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.514473[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.514540[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.514639[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.514832[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.514980[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 7 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.672164[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.672393[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53118
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40390
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:17(B[0m[32m[40m.761271[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:18(B[0m[32m[40m.570632[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:18(B[0m[32m[40m.665852[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.070510[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.071083[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.112343[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.112572[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.112891[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 24 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.113037[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.113105[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.113185[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.113337[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.113462[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 8 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.319632[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.319820[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53158
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:36488
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:29(B[0m[32m[40m.521150[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:30(B[0m[32m[40m.344925[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:30(B[0m[32m[40m.419861[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.469561[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.470133[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.470609[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.470744[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.470995[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 26 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.471168[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.471280[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.471334[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.471463[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.476159[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 9 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.559380[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.559491[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53198
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40470
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.623883[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.835207[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:35(B[0m[32m[40m.881592[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG3[0]: socket fd: Connection reset by peer (104)
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 301 byte(s) sent to socket
+Floating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.225266[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.262753[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.263168[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.263256[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.263458[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 37 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.263566[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.263602[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.263631[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.263708[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.263810[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 10 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.712955[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.713071[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53222
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40494
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:57(B[0m[32m[40m.960223[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:59(B[0m[32m[40m.000557[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:50:59(B[0m[32m[40m.243228[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.305387[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.306034[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.306543[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.306686[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.307013[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 41 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.307156[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.307221[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.307292[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.345989[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.346328[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 11 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.798832[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:51:10(B[0m[32m[40m.798949[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53260
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40532
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:11(B[0m[32m[40m.330144[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:12(B[0m[32m[40m.876527[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:13(B[0m[32m[40m.077326[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:23(B[0m[32m[40m.668382[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:23(B[0m[32m[40m.668998[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:23(B[0m[32m[40m.669495[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:23(B[0m[32m[40m.669633[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:23(B[0m[32m[40m.706673[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 44 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:23(B[0m[32m[40m.706861[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:23(B[0m[32m[40m.706909[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:23(B[0m[32m[40m.706946[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:23(B[0m[32m[40m.707051[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:23(B[0m[32m[40m.707163[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 12 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:24(B[0m[32m[40m.202603[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:51:24(B[0m[32m[40m.202719[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53300
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40572
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:24(B[0m[32m[40m.565360[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:26(B[0m[32m[40m.074114[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:26(B[0m[32m[40m.356238[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+K crashed with exit code 136.. Respawning..
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:37(B[0m[32m[40m.968717[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:37(B[0m[32m[40m.969302[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:37(B[0m[32m[40m.969791[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:37(B[0m[32m[40m.969926[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:37(B[0m[32m[40m.970272[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 47 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:37(B[0m[32m[40m.970424[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:38(B[0m[32m[40m.051802[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:38(B[0m[32m[40m.051898[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:38(B[0m[32m[40m.052181[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:38(B[0m[32m[40m.052347[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 13 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:38(B[0m[32m[40m.501700[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:51:38(B[0m[32m[40m.501817[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53340
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:36670
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:38(B[0m[32m[40m.959423[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:40(B[0m[32m[40m.039665[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.02980701 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:40(B[0m[32m[40m.285108[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.136679[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.137280[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.137758[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.137897[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.138242[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 48 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.138391[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.138459[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.138537[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.138676[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.02980701 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.138832[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 14 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.380899[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.381136[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53378
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40650
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:50(B[0m[32m[40m.491738[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:51(B[0m[32m[40m.394077[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03072983 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:51:51(B[0m[32m[40m.679869[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:01(B[0m[32m[40m.788759[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:01(B[0m[32m[40m.789353[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:01(B[0m[32m[40m.789866[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:01(B[0m[32m[40m.790016[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:01(B[0m[32m[40m.790369[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 50 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:01(B[0m[32m[40m.790526[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:01(B[0m[32m[40m.826704[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:01(B[0m[32m[40m.826768[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:01(B[0m[32m[40m.827082[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03072983 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:01(B[0m[32m[40m.827256[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 15 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:02(B[0m[32m[40m.015139[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:52:02(B[0m[32m[40m.015447[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53418
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40690
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:02(B[0m[32m[40m.171531[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:03(B[0m[32m[40m.803332[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03072983 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:04(B[0m[32m[40m.048228[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.501054[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.501634[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.502118[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.502255[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.502610[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 51 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.502760[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.502827[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.502905[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.503050[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03072983 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.503215[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 16 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.698374[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.698574[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53458
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40730
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:13(B[0m[32m[40m.794311[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:14(B[0m[32m[40m.467890[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:14(B[0m[32m[40m.567742[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.500955[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.501607[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.502100[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.502246[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.502616[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 55 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.502771[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.502839[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.502920[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.503062[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.503226[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 17 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.687537[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.687752[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53498
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:36828
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:24(B[0m[32m[40m.793273[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:25(B[0m[32m[40m.514154[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:25(B[0m[32m[40m.584882[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.616620[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.617192[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.617680[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.617818[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.618206[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 59 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.618364[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.618432[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.618513[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.618658[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.655413[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 18 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.833080[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.833288[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53538
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:36868
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:35(B[0m[32m[40m.913673[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:36(B[0m[32m[40m.607010[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:36(B[0m[32m[40m.751890[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.259278[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.260023[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.260612[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.260793[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.261234[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 60 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.261380[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.261467[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.261525[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.261670[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.261853[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 19 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.628947[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.629073[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53578
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:36908
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:47(B[0m[32m[40m.957845[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX Logout.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 0 byte(s) sent to socket
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:48(B[0m[32m[40m.747139[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:48(B[0m[32m[40m.826330[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.477842[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.478392[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.478770[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.478867[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.479159[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 62 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.479254[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.479298[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.479334[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.479421[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.479552[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 20 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.685545[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.685781[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53618
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:36948
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:58(B[0m[32m[40m.756971[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:59(B[0m[32m[40m.527208[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:52:59(B[0m[32m[40m.628779[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:08(B[0m[32m[40m.903770[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:08(B[0m[32m[40m.904393[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:08(B[0m[32m[40m.904907[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:08(B[0m[32m[40m.905082[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:08(B[0m[32m[40m.905477[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 64 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:08(B[0m[32m[40m.905640[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:08(B[0m[32m[40m.905705[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:08(B[0m[32m[40m.987281[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:08(B[0m[32m[40m.987483[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:08(B[0m[32m[40m.987682[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 21 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:09(B[0m[32m[40m.357268[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:53:09(B[0m[32m[40m.357491[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53658
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:40930
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:09(B[0m[32m[40m.684126[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX Logout.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 0 byte(s) sent to socket
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:11(B[0m[32m[40m.567964[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:11(B[0m[32m[40m.674961[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:19(B[0m[32m[40m.912575[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:19(B[0m[32m[40m.913155[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:19(B[0m[32m[40m.913617[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:19(B[0m[32m[40m.913754[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:19(B[0m[32m[40m.995454[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 66 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:19(B[0m[32m[40m.995781[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:19(B[0m[32m[40m.995947[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:19(B[0m[32m[40m.996046[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:19(B[0m[32m[40m.996200[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:19(B[0m[32m[40m.996372[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 22 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:20(B[0m[32m[40m.361814[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:53:20(B[0m[32m[40m.361932[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53698
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:37028
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:20(B[0m[32m[40m.734131[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX Logout.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 0 byte(s) sent to socket
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:22(B[0m[32m[40m.625026[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:22(B[0m[32m[40m.830273[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.468777[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.550863[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.551540[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.551693[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.552154[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 68 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.552307[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.552373[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.552468[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.552620[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.552808[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 23 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.961190[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:53:31(B[0m[32m[40m.961310[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53738
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:41010
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:32(B[0m[32m[40m.330886[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:34(B[0m[32m[40m.255246[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:34(B[0m[32m[40m.519882[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.385419[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.385868[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.386204[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.386291[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.464401[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 70 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.464675[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.465003[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.465064[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.465228[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.465496[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 24 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.874501[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:53:43(B[0m[32m[40m.874617[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53778
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:41050
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:44(B[0m[32m[40m.206082[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:45(B[0m[32m[40m.318032[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:45(B[0m[32m[40m.430950[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:53(B[0m[32m[40m.753698[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:53(B[0m[32m[40m.754238[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:53(B[0m[32m[40m.756426[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:53(B[0m[32m[40m.756516[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:53(B[0m[32m[40m.756834[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 71 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:53(B[0m[32m[40m.756931[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:53(B[0m[32m[40m.756975[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:53(B[0m[32m[40m.757012[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:53(B[0m[32m[40m.757105[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:53(B[0m[32m[40m.757232[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 25 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:54(B[0m[32m[40m.204278[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:53:54(B[0m[32m[40m.204410[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53818
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:41090
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:54(B[0m[32m[40m.573379[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:56(B[0m[32m[40m.235442[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:53:56(B[0m[32m[40m.305400[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:05(B[0m[32m[40m.639089[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:05(B[0m[32m[40m.639701[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:05(B[0m[32m[40m.640200[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:05(B[0m[32m[40m.640361[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:05(B[0m[32m[40m.640808[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 72 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:05(B[0m[32m[40m.640949[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:05(B[0m[32m[40m.641015[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:05(B[0m[32m[40m.641093[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:05(B[0m[32m[40m.641235[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:05(B[0m[32m[40m.718466[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 26 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:06(B[0m[32m[40m.046984[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:54:06(B[0m[32m[40m.047109[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53864
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:41136
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:06(B[0m[32m[40m.496572[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:07(B[0m[32m[40m.405854[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:07(B[0m[32m[40m.492983[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:09(B[0m[32m[40m.539719[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m authorization attempt from [33m[40m172.17.0.1[37m[40m.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+Floating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.736163[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.777710[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.778324[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.778458[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.778923[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 76 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.779066[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.779133[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.779211[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.779351[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.779534[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 27 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.964043[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:54:18(B[0m[32m[40m.964262[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53908
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:37238
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:19(B[0m[32m[40m.089775[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:19(B[0m[32m[40m.842280[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:19(B[0m[32m[40m.947199[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:28(B[0m[32m[40m.680286[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:28(B[0m[32m[40m.680852[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:28(B[0m[32m[40m.758422[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:28(B[0m[32m[40m.758675[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:28(B[0m[32m[40m.759219[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 77 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:28(B[0m[32m[40m.759359[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:28(B[0m[32m[40m.759437[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:28(B[0m[32m[40m.759519[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:28(B[0m[32m[40m.759666[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:28(B[0m[32m[40m.759854[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 28 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:29(B[0m[32m[40m.168325[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:54:29(B[0m[32m[40m.168445[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53948
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:37278
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:29(B[0m[32m[40m.663487[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX Logout.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 0 byte(s) sent to socket
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:31(B[0m[32m[40m.067316[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:31(B[0m[32m[40m.160230[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.343167[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.343735[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.344240[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.344405[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.344869[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 78 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.385858[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.385943[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.385982[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.386107[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.386252[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 29 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.796426[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.796551[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:53988
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:41260
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:40(B[0m[32m[40m.956974[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:41(B[0m[32m[40m.649788[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:41(B[0m[32m[40m.746774[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:50(B[0m[32m[40m.971521[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.012304[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.090457[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.090620[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.091106[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 80 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.091257[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.091345[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.091407[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.091551[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.091738[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 30 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.471349[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.471626[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:54028
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:41300
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:51(B[0m[32m[40m.617826[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:52(B[0m[32m[40m.451780[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:54:52(B[0m[32m[40m.568225[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.562930[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.563535[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.564010[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.564161[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.601596[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 82 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.601756[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.601825[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.601906[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.602053[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.602249[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 31 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.794689[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.794930[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:54068
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:37398
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:01(B[0m[32m[40m.905649[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:02(B[0m[32m[40m.647564[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:02(B[0m[32m[40m.788653[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:02(B[0m[32m[40m.821442[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m authorization attempt from [33m[40m76.211.113.136[37m[40m.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:12(B[0m[32m[40m.953345[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:12(B[0m[32m[40m.994572[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:12(B[0m[32m[40m.995241[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:12(B[0m[32m[40m.995378[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:12(B[0m[32m[40m.995897[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 85 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:12(B[0m[32m[40m.996121[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:12(B[0m[32m[40m.996212[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:12(B[0m[32m[40m.996272[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:12(B[0m[32m[40m.996434[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:12(B[0m[32m[40m.996628[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 32 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:13(B[0m[32m[40m.231599[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:55:13(B[0m[32m[40m.231826[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:54108
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:37438
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:13(B[0m[32m[40m.331603[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:14(B[0m[32m[40m.055746[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03088379 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:14(B[0m[32m[40m.158885[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m authorization success from [33m[40m76.211.113.136[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:14(B[0m[32m[40m.159438[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.178389[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.178963[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.180260[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.180349[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.180691[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 86 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.180783[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.180821[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.180853[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.180936[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03088379 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.181072[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 33 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.546899[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.547016[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:54148
+stunnel: LOG5[0]: s_connect: connected 54.87.0.166:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:41420
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:24(B[0m[32m[40m.765800[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:25(B[0m[32m[40m.444996[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03180846 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:25(B[0m[32m[40m.597933[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8[2S[1;24r[21;3H(B[0;1m[32m[40m22:55:25(B[0m[32m[40m.619913[39;49m(B[m (B[0;1m[37m[40mUI (B[0m[33m[40m1[37m[40m currently connected, last connection was from [33m[40m76.211.113.[22;1H[39;49m(0[0mx(B [33m[40m136[37m[40m.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.395368[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.395962[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.396493[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.396645[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.397138[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 88 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.397281[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.397349[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.397426[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.397591[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03180846 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.397788[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 34 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.805521[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.805638[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:54188
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:37518
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:35(B[0m[32m[40m.952739[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:36(B[0m[32m[40m.691940[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03180846 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:36(B[0m[32m[40m.779146[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8[2S[1;24r[21;3H(B[0;1m[32m[40m22:55:37(B[0m[32m[40m.905095[39;49m(B[m (B[0;1m[37m[40mUI (B[0m[33m[40m1[37m[40m currently connected, last connection was from [33m[40m76.211.113.[22;1H[39;49m(0[0mx(B [33m[40m136[37m[40m.
+[39;49m(0[0mx(B (0[0m(BFloating point exception (core dumped)
+K crashed with exit code 136.. Respawning..
+stunnel: LOG5[0]: Connection closed: 185 byte(s) sent to TLS, 196 byte(s) sent to socket
+[1;32mK[0;32m build x86_64-linux-gnu 2017-11-21 19:26:53.[1;31m
+[?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[39;49m(B[m[H[2J
+
+
+  [H[2J(0[0mlqqqqqqwqqqqu(B[0m[32m[40m (B[0;1m[32m[40mK(B[0m[32m[40m x86_64-linux-gnu 2017-11-21 19:26:53 [39;49m(0[0mtqqqqqqqqqqqqqqu(B [(B[0;1mq(B[m]: Quit![2;1H(0[0mx(B[8G(0[0mmqqqqu(B (B[0;1m[32m[40mCOINBASE LTC/USD(B[0m[32m[40m headless
+[39;49m(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mx(B
+(0[0mmqqqu(B< ([33m[40m0[39;49m(B[m) Open Orders..[80G[?7l/[?7h[23;3H[4d[22d(B[0;1m[32m[40mK(B[0m[32m[40m version 0day.
+[3G[39;49m(B[m7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:47(B[0m[32m[40m.925482[39;49m(B[m (B[0;1m[37m[40mDB (B[0m[33m[40m/data/db/K.3.LTC.USD.db[37m[40m loaded OK.
+[39;49m(0[0mx(B (0[0m(B[2;32H[32m[40mUI on HTTPS port 3031[24;80H[?7l[39;49m(B[m-[?7h[23;3H7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:47(B[0m[32m[40m.926098[39;49m(B[m (B[0;1m[37m[40mUI(B[0m[37m[40m ready over [33m[40mHTTPS[37m[40m on external port [33m[40m3031[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:47(B[0m[32m[40m.926598[39;49m(B[m (B[0;1m[37m[40mQP[31m[40m Warrrrning: (B[0m[31m[40musing default values for Quoting Parameters[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:47(B[0m[32m[40m.926736[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 0 historical Trades.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:47(B[0m[32m[40m.927234[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 90 STDEV Periods.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:47(B[0m[32m[40m.927377[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Long = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:47(B[0m[32m[40m.927445[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Medium = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:47(B[0m[32m[40m.927525[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded EWMA Short = 0.000000.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:47(B[0m[32m[40m.927669[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded TBP = 3.03180846 LTC.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:48(B[0m[32m[40m.045846[39;49m(B[m (B[0;1m[37m[40mDB(B[0m[37m[40m loaded 35 historical Profits.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[ui]: stunnel 5.39 on x86_64-pc-linux-gnu platform
+stunnel: LOG5[ui]: Compiled with OpenSSL 1.1.0c  10 Nov 2016
+stunnel: LOG5[ui]: Running  with OpenSSL 1.1.0f  25 May 2017
+stunnel: LOG5[ui]: Update OpenSSL shared libraries or rebuild stunnel
+stunnel: LOG5[ui]: Threading:PTHREAD Sockets:POLL,IPv6,SYSTEMD TLS:ENGINE,FIPS,OCSP,PSK,SNI Auth:LIBWRAP
+stunnel: LOG5[ui]: Reading configuration from file /K/etc/K-stunnel.conf
+stunnel: LOG5[ui]: UTF-8 byte order mark not detected
+stunnel: LOG5[ui]: FIPS mode disabled
+stunnel: LOG5[ui]: Configuration successful
+7[3;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:48(B[0m[32m[40m.383648[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m allows client IP.
+[39;49m(0[0mx(B (0[0m(B7[3;23r8[7S[1;24r[16;3H(B[0;1m[32m[40m22:55:48(B[0m[32m[40m.383778[39;49m(B[m (B[0;1m[37m[40mGW COINBASE:(B[0m[37m[40m 
+[39;49m(0[0mx(B [37m[40m- autoBot: no
+[39;49m(0[0mx(B [37m[40m- symbols: LTC-USD
+[39;49m(0[0mx(B [37m[40m- minTick: 0.01000000
+[39;49m(0[0mx(B [37m[40m- minSize: 0.01000000
+[39;49m(0[0mx(B [37m[40m- makeFee: 0.00000000
+[39;49m(0[0mx(B [37m[40m- takeFee: 0.00000000.
+[39;49m(0[0mx(B (0[0m(Bstunnel: LOG5[0]: Service [gdax_stream] accepted connection from 127.0.0.1:54228
+stunnel: LOG5[0]: s_connect: connected 52.86.60.82:4198
+stunnel: LOG5[0]: Service [gdax_stream] connected remote server from 172.17.0.2:37558
+stunnel: LOG5[0]: Certificate accepted at depth=0: C=US, ST=California, L=San Francisco, O="Coinbase, Inc.", CN=*.gdax.com
+7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:48(B[0m[32m[40m.588811[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m FIX success Logon.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:49(B[0m[32m[40m.354414[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03180846 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:49(B[0m[32m[40m.495120[39;49m(B[m (B[0;1m[37m[40mGW COINBASE(B[0m[37m[40m WS Streaming book levels.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8[2S[1;24r[21;3H(B[0;1m[32m[40m22:55:49(B[0m[32m[40m.538421[39;49m(B[m (B[0;1m[37m[40mUI (B[0m[33m[40m1[37m[40m currently connected, last connection was from [33m[40m76.211.113.[22;1H[39;49m(0[0mx(B [33m[40m136[37m[40m.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:50(B[0m[32m[40m.260319[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03196273 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:50(B[0m[32m[40m.739343[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03227139 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:51(B[0m[32m[40m.148039[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03273473 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:52(B[0m[32m[40m.008316[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03304383 LTC, pDiv: 14% = 0.90000000 LTC.
+[39;49m(0[0mx(B (0[0m(B7[4;23r8
+[1;24r[22;3H(B[0;1m[32m[40m22:55:52(B[0m[32m[40m.497619[39;49m(B[m (B[0;1m[37m[40mPG(B[0m[37m[40m TBP: 50% = 3.03319846 LTC, pDiv: 14% = 0.90000000 LTC.
